@@ -40,6 +40,4 @@
 
 "Educai as crianças e não será preciso punir os homens" (Pitágoras)
 
-<br>
-
 <img src="https://github.com/gilenoOP/gilenoOP/blob/main/hiei-yu-yu-hakusho.gif" width="220">
