@@ -10,7 +10,6 @@
 	<img width="96" height="22" src="https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium">
 	<img width="96" height="22" src="https://img.shields.io/badge/-Cucumber-black?style=flat-square&logo=cucumber">
 	<img width="67" height="22" src="https://img.shields.io/badge/-Maven-black?style=flat-badge&logo=apachemaven&logoColor=red">
-	<img width="65" height="22" src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java">
 	<img width="96" height="22" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
 	<img width="98" height="22" src="https://img.shields.io/badge/-MarkDown-black?style=flat-square&logo=markdown">
 	<img width="65" height="22" src="https://img.shields.io/badge/-Html-black?style=flat-square&logo=html5">
