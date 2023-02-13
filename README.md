@@ -26,7 +26,7 @@
   <img align="right" alt="gileno pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_XXXXXXX.png?width=676&height=676">
 </div>
   
-![Snake animation](https://github.com/gilenoOP/gilenoOP/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
   ##
  
