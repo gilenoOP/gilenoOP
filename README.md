@@ -3,11 +3,13 @@
 - 🌱 Tenho buscado conhecimento sobre testes automatizados
 
 <div align="center">
-	<img width="96" height="22" src="https://img.shields.io/badge/-IntelliJ_IDEA-black?style=flat-square&logo=jetbrains">
+	<img width="96" height="22" src="https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=jetbrains">
+	<img width="96" height="22" src="https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=vscode">
 	<img width="62" height="22" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
 	<img width="93" height="22" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
 	<img width="76" height="22" src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab">
 	<img width="96" height="22" src="https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium">
+	<img width="96" height="22" src="https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress">
 	<img width="96" height="22" src="https://img.shields.io/badge/-Cucumber-black?style=flat-square&logo=cucumber">
 	<img width="67" height="22" src="https://img.shields.io/badge/-Maven-black?style=flat-badge&logo=apachemaven&logoColor=red">
 	<img width="96" height="22" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
