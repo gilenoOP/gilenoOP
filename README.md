@@ -23,14 +23,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gilenoOP/gilenoOP/output/pacman-contribution-graph.svg">
 </picture>
 
-# <div align="center">
-# 	<a href="https://github.com/gilenoOP">
-# 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilenoOP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-# 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilenoOP&layout=compact&langs_count=16&theme=algolia"/>	
-# 	<img width="1000" height="150" src="https://github.com/gilenoOP/gilenoOP/blob/output/github-contribution-grid-snake.svg">
-# </div>
-
-  ##
+##
  
 <h3>💻🌐 Social / Contato <br></h3> 
 <div> 
