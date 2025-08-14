@@ -17,11 +17,11 @@
 	<img width="65" height="22" src="https://img.shields.io/badge/-Html-black?style=flat-square&logo=html5">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilenoOP/gilenoOP/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gilenoOP/gilenoOP/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gilenoOP/gilenoOP/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+	<a href="https://github.com/gilenoOP">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilenoOP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilenoOP&layout=compact&langs_count=16&theme=algolia"/>	
+</div>
 
 ##
  
