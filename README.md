@@ -1,29 +1,39 @@
-### Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Meu nome é Gileno Oliveira e atualmente trabalho com testes manuais de softwares. Seja bem vindo!
+<h1 align=center> Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Meu nome é Gileno Oliveira. </h1>
 
-- 🌱 Tenho buscado conhecimento sobre testes automatizados
+Sou um profissional de Garantia de Qualidade (QA) de software com mais de dez anos de experiência em testes manuais e um profundo conhecimento do ciclo de vida de desenvolvimento de software (SDLC). Meu objetivo é garantir a entrega de produtos de alta qualidade, focando na excelência e na experiência do usuário.
+Atualmente, estou em transição para o mundo da automação de testes, expandindo meu conjunto de habilidades para incluir ferramentas modernas e frameworks, combinando minha vasta experiência manual com a eficiência da automação.
 
-<div align="center">
-	<img width="62" height="22" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
-	<img width="76" height="22" src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab">
-	<img width="93" height="22" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
-	<img width="96" height="22" src="https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress">
-	<img width="140" height="22" src="https://img.shields.io/badge/-Robot%20Framework-black?style=flat-square&logo=robotframework&logoColor=white">
-	<img width="120" height="22" src="https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright&logoColor=white">
-	<img width="96" height="22" src="https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium">
-	<img width="96" height="22" src="https://img.shields.io/badge/-Cucumber-black?style=flat-square&logo=cucumber">
-	<img width="100" height="22" src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=white">
-	<img width="96" height="22" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
-	<img width="78" height="22" src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk">
-	<img width="96" height="22" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
-	<img width="86" height="22" src="https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=red">
-	<img width="65" height="22" src="https://img.shields.io/badge/-Html-black?style=flat-square&logo=html5">
-</div>
+### 🚀 Habilidades Principais
+- Tipos de Testes:
+  - Testes de Integração
+	- Testes de Sistema (System Testing)
+	- Testes de Aceitação do Usuário (UAT)
+	- Testes Exploratórios
+	- Testes Regressivos e Funcionais
 
-<div align="center">
+- Metodologias:
+	- Experiência com metodologias Ágeis (Scrum, Kanban) e tradicionais (cascatas).
+
+- Habilidades Comportamentais:
+	- Excelente comunicação, atenção meticulosa aos detalhes, capacidade de identificar riscos e reportar bugs de forma clara e concisa, colaboração com equipes de desenvolvimento e produto.
+
+- Estudando Atualmente (Automação de Testes)
+Estou ativamente aprimorando minhas competências em automação de testes, com foco nas seguintes ferramentas e frameworks:
+	- Cypress
+	- Robot Framework
+	- Playwright
+ 	- Selenium
+
+<details>
+  <summary>  Minhas estatísticas </summary>
+  <p>
+    <div align="center">
 	<a href="https://github.com/gilenoOP">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilenoOP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilenoOP&layout=compact&langs_count=16&theme=algolia"/>	
 </div>
+  </p>
+</details>
 
 ###
  
